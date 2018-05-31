@@ -1,0 +1,6 @@
+framework module KevinKit {
+  umbrella header "KevinKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

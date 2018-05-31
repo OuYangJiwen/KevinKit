@@ -1,0 +1,16 @@
+PODS:
+  - KevinKit (1)
+
+DEPENDENCIES:
+  - KevinKit (from `../`)
+
+EXTERNAL SOURCES:
+  KevinKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KevinKit: b4e0acde46f32b7bf6911227cd007006fb8ff43b
+
+PODFILE CHECKSUM: 8c8e4a6647c97fddaa5de8d7f6bdd08743c5e413
+
+COCOAPODS: 1.5.3

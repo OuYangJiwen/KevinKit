@@ -1,0 +1,22 @@
+{
+  "name": "KevinKit",
+  "version": "1",
+  "summary": "A short description of KevinKit.",
+  "description": "A short description of KevinKit.",
+  "homepage": "https://github.com/OuYangJiwen/KevinKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "OuYangJiwen": "2122774806@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/OuYangJiwen/KevinKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KevinKit/Classes/**/*"
+}
