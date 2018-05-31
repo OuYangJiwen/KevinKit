@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KevinKit_Tests' do
+  pod 'KevinKit', :path => '../'
+  
+  
+end
